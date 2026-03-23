@@ -58,9 +58,4 @@ All dependencies are listed in `requirements.txt`.
 
 ---
 
-## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/cancer-survival-analysis.git
-   cd cancer-survival-analysis
